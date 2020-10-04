@@ -6,3 +6,4 @@ Muhammad Ihsan Basuki's Resolution:
 - Able to use jQuery
 - Able to use Angular/VueJS
 - Make a Study Case
+- Able to use CodeIgniter 4 or Laravel
