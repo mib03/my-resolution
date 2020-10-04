@@ -1,0 +1,8 @@
+Muhammad Ihsan Basuki's Resolution:
+
+- Able to use JavaScript
+- Able to create PWA
+- Able to create Responsive Website
+- Able to use jQuery
+- Able to use Angular/VueJS
+- Make a Study Case
